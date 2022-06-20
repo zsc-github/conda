@@ -11,3 +11,13 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - math
+  - time
+  - copy
+  - sklearn
+  - io
+  - datetime
+  - ipywidgets
+  - prettytable
+  - plotly
+  - fbProphet
