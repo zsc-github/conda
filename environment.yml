@@ -11,8 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - time
   - ipywidgets
-  - prettytable
-  - plotly
-  - fbProphet
+  - typing
