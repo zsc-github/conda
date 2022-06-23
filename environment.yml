@@ -1,4 +1,4 @@
-name: example-environment
+name: Time-Series-Simulation
 channels:
   - conda-forge
 dependencies:
@@ -13,3 +13,4 @@ dependencies:
   - dask
   - ipywidgets
   - typing
+  - chinese_calender
