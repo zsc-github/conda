@@ -1,9 +1,8 @@
 name: Time-Series-Simulation
 channels:
-  - intel
   - conda-forge
 dependencies:
-  - python=3.7
+  - pip
   - numpy
   - psutil
   - toolz
