@@ -13,4 +13,5 @@ dependencies:
   - dask
   - ipywidgets
   - typing
-  - chinesecalendar
+  - pip:
+      - chinesecalendar
