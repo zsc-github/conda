@@ -1,6 +1,18 @@
 name: Time-Series-Simulation
 channels:
   - conda-forge
+  - msys2
+  - bioconda
+  - menpo
+  - https://mirrors.aliyun.com/pypi/simple/
+  - http://pypi.douban.com/simple/
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.ustc.edu.cn/anaconda/cloud/msys2/
+  - https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
+  - https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
+  - https://mirrors.ustc.edu.cn/anaconda/cloud/
 dependencies:
   - numpy
   - psutil
